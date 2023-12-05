@@ -13,7 +13,7 @@
 ## Execution
 <img width="960" alt="ConsulExec" src="https://github.com/aymanehed/TP4_JEE/assets/93987581/d9290fad-3d7f-422a-9152-2ee270d2a300">
 
-# UI
+## UI
 <img width="680" alt="ConsulUI1" src="https://github.com/aymanehed/TP4_JEE/assets/93987581/64c5b14d-ddd8-4595-a37b-43f2850929a7">
 <img width="679" alt="ConsulUI2" src="https://github.com/aymanehed/TP4_JEE/assets/93987581/a267d185-64b3-4ece-893b-7a1c990972c8">
 
