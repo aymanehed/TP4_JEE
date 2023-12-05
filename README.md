@@ -1,7 +1,8 @@
 # TP4_JEE
 # Vault 
 ## Command
-<img width="404" alt="vaultcmd" src="https://github.com/aymanehed/TP4_JEE/assets/93987581/e065d6e9-9372-4df2-9910-10dbcf08e33f">
+<img width="698" alt="vaultserver" src="https://github.com/aymanehed/TP4_JEE/assets/93987581/bf029b39-c7ae-4fc7-8ddc-469246689053">
+
 
 ## Execution
 <img width="960" alt="Vault_exec" src="https://github.com/aymanehed/TP4_JEE/assets/93987581/b730fa59-268e-463f-8b90-25bae2c135f1">
