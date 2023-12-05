@@ -1,13 +1,13 @@
 # TP4_JEE
 # Vault 
-## COMMAND
+## Command
 <img width="404" alt="vaultcmd" src="https://github.com/aymanehed/TP4_JEE/assets/93987581/e065d6e9-9372-4df2-9910-10dbcf08e33f">
 
 ## Execution
 <img width="960" alt="Vault_exec" src="https://github.com/aymanehed/TP4_JEE/assets/93987581/b730fa59-268e-463f-8b90-25bae2c135f1">
 
 # Consul
-## COMMAND
+## Command
 <img width="942" alt="consulCmd" src="https://github.com/aymanehed/TP4_JEE/assets/93987581/03b2b326-2600-4fab-a70c-4227d792024c">
 
 ## Execution
